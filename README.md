@@ -1,38 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Bhushan%20Sapkal&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Enthusiast" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7957D5&height=200&section=header&text=Bhushan%20Sapkal&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Aspiring%20AI%20Engineer&descAlignY=55&descSize=18" width="100%" />
 
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Bhushan+Sapkal+👋;B.Tech+AI+%26+Data+Science+Student;Passionate+Developer+%26+AI+Enthusiast" alt="typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Bhushan+Sapkal+👋;B.Tech+AI+%26+Data+Science+Student;Aspiring+AI+Engineer+%26+Data+Scientist;Building+Real+Projects+%7C+Learning+Every+Day;Open+to+Internships+%26+Collaborations+🚀" alt="Typing SVG" />
 </h3>
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=bhushan-1710&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/bhushan-1710?label=Followers&style=for-the-badge&color=7957D5" alt="followers" />
-<img src="https://img.shields.io/github/stars/bhushan-1710?label=Stars&style=for-the-badge&color=58A6FF" alt="stars" />
-
+  <img src="https://komarev.com/ghpvc/?username=bhushan-1710&label=Profile+Views&color=58A6FF&style=flat" />
+  <br/>
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/github/followers/bhushan-1710?label=Followers&style=flat-square&color=7957D5" alt="followers" />
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47d0d1abeebf9a2ca0eeacf6e6c8f85a8e8c4c8c8&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230" alt="coding gif" />
+<img align="right" src="https://media1.tenor.com/m/FjvgVPkrWP0AAAAC/anime-reading.gif" width="280" />
 
-Hi, I'm **Bhushan Sapkal**, a passionate second-year **B.Tech Artificial Intelligence and Data Science** student at **RH Sapat College of Engineering, Nashik**, under **Savitribai Phule Pune University**.
-
-I'm focused on building a strong foundation in **AI, Machine Learning, Data Science, Python, SQL, and full-stack development**. I enjoy creating practical projects that connect theory with real-world applications.
-
-**Key Highlights:**
-- 🎓 **Education:** B.Tech AI & Data Science (Year 2)  
-- 🏛️ **Leadership:** Vice President, SCAI (Student Committee of AI & Data Science)  
-- 🤖 **Focus:** AI-powered applications, data-driven systems, and automation  
-- 🌱 **Currently Learning:** Python, SQL, Machine Learning, NLP, and Data Analytics  
-- 💼 **Open To:** Internships, collaborations, and project-based learning opportunities  
-- 📍 **Location:** Nashik, Maharashtra, India
+- 🎓 Pursuing **B.Tech in AI & Data Science** @ RH Sapat College, Nashik
+- 🏛️ **Vice President** of SCAI — Student Committee of AI & DS
+- 🧠 Building skills in **Machine Learning, Deep Learning & Data Analytics**
+- 🚀 Aspiring **AI Engineer & Full-Stack Data Scientist**
+- 🌱 Currently mastering **Python, SQL, ML & Cloud Computing**
+- 💼 Open to **Internships, Freelance Projects & Collaborations**
+- 📍 Nashik, Maharashtra, India
+- ⚡ **Fun fact:** I debug with anime characters cheering me on! 🎌
 
 <br clear="right"/>
 
@@ -42,56 +38,59 @@ I'm focused on building a strong foundation in **AI, Machine Learning, Data Scie
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhushan%20Sapkal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhushan-sapkal-754a34376/)
-[![GitHub](https://img.shields.io/badge/GitHub-bhushan--1710-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhushan-1710)
-[![Live Project](https://img.shields.io/badge/Live%20Project-RE--PMS-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://re-pms.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhushan-sapkal-754a34376/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhushan-1710)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhushansapkal.work@gmail.com)
+[![RE-PMS Live](https://img.shields.io/badge/RE--PMS-Live%20Project-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://re-pms.vercel.app/)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### 🐍 Programming Languages
+### **Programming & Web Development**
+
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 </div>
 
-### 🎨 Web Development
+### **Data Science & AI/ML**
+
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/seaborn-4C72B0.svg?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
 </div>
 
-### 🗄️ Databases & Tools
+### **Databases & Tools**
+
 <div align="center">
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
-### 📊 Data Science & AI
-<div align="center">
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -104,9 +103,9 @@ I'm focused on building a strong foundation in **AI, Machine Learning, Data Scie
 <td width="100%">
 
 ### 🏠 RE-PMS
-**Real Estate Property Management System**
+**Real Estate Property Management System** 
 
-A full-stack web application for managing real estate property listings and records with an intuitive interface.
+A full-stack web application for managing real estate property listings with an intuitive and responsive interface.
 
 **Tech Stack:**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -130,7 +129,7 @@ A full-stack web application for managing real estate property listings and reco
 
 ## 🎯 Currently Working On
 
-<img align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWoMyVp/giphy.gif?cid=ecf05e47ak60b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="240" alt="AI coding" />
+<img align="right" src="https://media1.tenor.com/m/a8_Rlx5pjCwAAAAC/anime-coding.gif" width="280" />
 
 ### 🔍 JobGuard AI
 **Fake Job Posting Detection System**
@@ -142,12 +141,13 @@ An AI/Data Science project leveraging **NLP and Machine Learning** to analyze an
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square&logo=python&logoColor=white)
 
 **Planned Features:**
 - 📝 Job description analysis
-- 🔄 Text preprocessing & NLP
-- 🎯 Fake/genuine classification
-- 📊 Confidence scoring
+- 🔄 Advanced text preprocessing & NLP
+- 🎯 Fake/genuine classification with ML models
+- 📊 Confidence scoring & probability metrics
 - ⚠️ Suspicious keyword detection
 - 🎨 Interactive dashboard interface
 
@@ -157,30 +157,22 @@ An AI/Data Science project leveraging **NLP and Machine Learning** to analyze an
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhushan-1710&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushan-1710&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api?username=bhushan-1710&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushan-1710&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
 
 </div>
 
-<br/>
-
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=bhushan-1710&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
+  <img src="https://streak-stats.demolab.com?user=bhushan-1710&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%" alt="Streak Stats"/>
 </div>
 
-<br/>
-
 <div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhushan-1710&bg_color=1a1b27&color=58A6FF&line=7957D5&point=FFFFFF&area=true&hide_border=true)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhushan-1710&bg_color=1a1b27&color=58A6FF&line=7957D5&point=58A6FF&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -188,58 +180,76 @@ An AI/Data Science project leveraging **NLP and Machine Learning** to analyze an
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bhushan-1710&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=bhushan-1710&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-## 🎓 Certifications
+## 📜 Certifications & Achievements
 
 <div align="center">
 
-| Certification | Issuer | Date |
+| Certification | Issuer | Status |
 |---|---|---|
-| **Foundation Course on Green Skills and Artificial Intelligence** | Edunet Foundation, AICTE & Shell India | March 2026 |
+| **Foundation Course on Green Skills and Artificial Intelligence** | Edunet Foundation, AICTE & Shell India | ✅ Completed (March 2026) |
+
+</div>
+
+**Leadership:**
+- 🏅 Vice President, SCAI (Student Committee of AI & Data Science)
+- 🌟 Active Open Source Contributor
+- 📚 Mentor for junior students in AI/ML
+
+---
+
+## 🎯 Goals & Roadmap
+
+### 2026 Learning Objectives
+
+<div align="center">
+
+```
+┌─────────────────────────────────────┐
+│   2026 LEARNING & GROWTH ROADMAP    │
+├─────────────────────────────────────┤
+│ 🔨 Build 5+ Production ML Projects  │
+│ 📊 Master SQL & Data Engineering    │
+│ 🤖 Deep Dive into NLP & CV          │
+│ 💼 Secure AI/ML Internship          │
+│ 🌐 Deploy AI Web Applications       │
+│ 🌟 Achieve 1000+ GitHub Stars       │
+│ 🚀 Contribute to Open Source        │
+│ 📚 Publish Technical Blogs          │
+└─────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-## 📚 Learning Roadmap
+## 💡 Coding Philosophy
 
 <div align="center">
 
-```
-2026 Learning Goals
-│
-├─ 📊 Advanced SQL & Database Optimization
-├─ 🤖 Machine Learning & Deep Learning
-├─ 🗣️ Natural Language Processing (NLP)
-├─ 📈 Data Visualization & Analysis
-├─ 🔐 Data Security & Ethics
-├─ 🚀 Advanced Python & Optimization
-├─ 💼 Real-world Project Development
-└─ 🎯 AI-Powered Application Development
-```
+> **"Stop overthinking. Start building. Every line of code is a step towards mastery."** 🚀
+
+> **"Learn from code, build with passion, ship with purpose."** ✨
+
+> **"In the world of code and data, I'm the protagonist of my own story!"** 📖💻
 
 </div>
 
 ---
 
-## 🎯 2026 Goals
+## 🎌 Anime Enthusiast & Code Warrior 
 
 <div align="center">
 
-| Goal | Status |
-|---|---|
-| 🏆 Complete JobGuard AI Project | 🔄 In Progress |
-| 📚 Master Machine Learning Fundamentals | 📖 Learning |
-| 🔬 Contribute to Open Source Projects | 🎯 Planned |
-| 💼 Secure an AI/ML Internship | 🎯 Planned |
-| 🌟 Build 5+ Data Science Projects | 🚀 In Progress |
-| 📈 Achieve 2000+ GitHub Stars | 📊 In Progress |
+<img src="https://media1.tenor.com/m/a8_Rlx5pjCwAAAAC/anime-coding.gif" width="300" alt="Anime Coding"/>
+
+<br/>
+
+**"Just like anime protagonists who never give up, I embrace challenges as opportunities to level up my skills!"** 💪⚡
 
 </div>
 
@@ -249,10 +259,11 @@ An AI/Data Science project leveraging **NLP and Machine Learning** to analyze an
 
 <div align="center">
 
-I'm always excited to collaborate on **AI projects**, **data science initiatives**, and **full-stack development**. Feel free to reach out!
+I'm always excited to collaborate on **AI projects**, **data science initiatives**, **full-stack development**, and **machine learning ventures**. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhushan-sapkal-754a34376/)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhushan-1710)
+[![Portfolio](https://img.shields.io/badge/View%20Projects-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://re-pms.vercel.app/)
 
 </div>
 
@@ -260,10 +271,20 @@ I'm always excited to collaborate on **AI projects**, **data science initiatives
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&pause=1000&color=7957D5&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting!+⭐;Feel+free+to+fork+%26+star+this+repo!" alt="closing message" />
+### ⭐ Show Some Love!
 
-<br/>
+If you find my work interesting or inspiring, feel free to **star my repositories** and **follow** for more amazing projects!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:203A43&height=100&section=footer" alt="footer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&pause=1000&color=7957D5&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting!+⭐;Keep+learning%2C+keep+building+🚀" alt="Thanks" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7957D5,100:58A6FF&height=120&section=footer" width="100%" />
+
+<sub>Made with ❤️ by Bhushan Sapkal | Last Updated: May 2026</sub>
 
 </div>
