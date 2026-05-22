@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Bhushan+Sapkal+👋;B.Tech+AI+%26+Data+Science+Student+🎓;AI+Engineer+%26+Data+Science+Enthusiast+🤖;Currently+Learning+ML+%26+Python+📚" alt="typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Bhushan+Sapkal+👋;B.Tech+AI+%26+Data+Science+Student;Passionate+Developer+%26+AI+Enthusiast" alt="typing animation" />
 </h3>
 
 <div align="center">
@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47d0d1abeebf9a2ca0eeacf6e6c8f85a8e8c4c8c8&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230" alt="coding gif" style="border-radius: 10px;" />
+<img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47d0d1abeebf9a2ca0eeacf6e6c8f85a8e8c4c8c8&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230" alt="coding gif" />
 
 Hi, I'm **Bhushan Sapkal**, a passionate second-year **B.Tech Artificial Intelligence and Data Science** student at **RH Sapat College of Engineering, Nashik**, under **Savitribai Phule Pune University**.
 
@@ -101,7 +101,7 @@ I'm focused on building a strong foundation in **AI, Machine Learning, Data Scie
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 ### 🏠 RE-PMS
 **Real Estate Property Management System**
@@ -123,25 +123,6 @@ A full-stack web application for managing real estate property listings and reco
 [![View Live](https://img.shields.io/badge/View%20Live%20Project-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://re-pms.vercel.app/)
 
 </td>
-<td width="50%">
-
-### 🏢 Brownie Point Nashik
-**Frontend Business Website**
-
-A responsive and modern frontend website for a local business with clean UI/UX design.
-
-**Tech Stack:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Features:**
-- ✅ Responsive layout
-- ✅ Modern UI design
-- ✅ Business-focused presentation
-- ✅ Clean code structure
-
-</td>
 </tr>
 </table>
 
@@ -149,7 +130,7 @@ A responsive and modern frontend website for a local business with clean UI/UX d
 
 ## 🎯 Currently Working On
 
-<img align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWoMyVp/giphy.gif?cid=ecf05e47ak60b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="240" alt="AI coding gif" style="border-radius: 10px;" />
+<img align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWoMyVp/giphy.gif?cid=ecf05e47ak60b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="240" alt="AI coding" />
 
 ### 🔍 JobGuard AI
 **Fake Job Posting Detection System**
@@ -180,17 +161,9 @@ An AI/Data Science project leveraging **NLP and Machine Learning** to analyze an
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhushan-1710&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhushan-1710&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushan-1710&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=bhushan-1710&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="75%" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushan-1710&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
@@ -198,7 +171,15 @@ An AI/Data Science project leveraging **NLP and Machine Learning** to analyze an
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhushan-1710&bg_color=1a1b27&color=58A6FF&line=7957D5&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+![GitHub Streak](https://streak-stats.demolab.com?user=bhushan-1710&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhushan-1710&bg_color=1a1b27&color=58A6FF&line=7957D5&point=FFFFFF&area=true&hide_border=true)
 
 </div>
 
@@ -208,7 +189,7 @@ An AI/Data Science project leveraging **NLP and Machine Learning** to analyze an
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=bhushan-1710&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" width="100%" />
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bhushan-1710&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
 
 </div>
 
@@ -279,7 +260,7 @@ I'm always excited to collaborate on **AI projects**, **data science initiatives
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&pause=1000&color=7957D5&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting!+⭐;Feel+free+to+fork+%26+star+my+repos!+🚀;Let's+build+amazing+things+together!+💪" alt="footer animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&pause=1000&color=7957D5&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting!+⭐;Feel+free+to+fork+%26+star+this+repo!" alt="closing message" />
 
 <br/>
 
