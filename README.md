@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.magnific.com/free-vector/desktop-smartphone-app-development_10276838.htm#fromView=keyword&page=1&position=26&uuid=a36e842f-1ab8-4665-bb0b-f590bc35f750&query=Programming+png" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7957D5,100:58A6FF&height=200&section=header&text=Bhushan%20Sapkal&fontSize=50&fontColor=white&animation=fadeIn&fontAlignY=38&desc=B.Tech%20AI%20%26%20Data%20Science%20%7C%20AI%20Engineer%20in%20the%20Making&descSize=16&descAlignY=60" width="100%" />
 
 </div>
 
@@ -161,14 +161,14 @@ An AI/Data Science project leveraging **NLP and Machine Learning** to analyze an
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhushan-1710&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bhushan-1710&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="180" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushan-1710&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushan-1710&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="180" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=bhushan-1710&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=bhushan-1710&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" width="70%" alt="Streak Stats"/>
 </div>
 
 <div align="center">
