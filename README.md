@@ -1,126 +1,230 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7957D5&height=200&section=header&text=Bhushan%20Sapkal&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Aspiring%20AI%20Engineer&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Bhushan%20Sapkal&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Aspiring%20AI%20Engineer&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
 
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Bhushan+Sapkal+👋;B.Tech+AI+%26+Data+Science+Student;Aspiring+AI+Engineer+%26+Data+Scientist;Building+Real+Projects+%7C+Learning+Every+Day;Open+to+Internships+%26+Collaborations+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Bhushan+Sapkal+👋;B.Tech+AI+%26+Data+Science+Student;Aspiring+AI+Engineer+%26+Data+Scientist;Learning+Python+%7C+SQL+%7C+Machine+Learning;Building+Real+Projects+One+Step+at+a+Time+🚀" alt="Typing SVG" />
 </h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhushan-1710&label=Profile+Views&color=58A6FF&style=flat" />
+
+<img src="https://komarev.com/ghpvc/?username=bhushan-1710&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/bhushan-1710?label=Followers&style=for-the-badge&color=7957D5" />
+<img src="https://img.shields.io/github/stars/bhushan-1710?label=Stars&style=for-the-badge&color=58A6FF" />
+
+</div>
+
+<br/>
+
+---
+
+## About Me
+
+<img align="right" src="https://media.tenor.com/rePDfDWO3XoAAAAi/hacking.gif" width="220" alt="Chibi coding character" />
+
+Hi, I’m **Bhushan Sapkal**, a second-year **B.Tech Artificial Intelligence and Data Science** student at **RH Sapat College of Engineering, Nashik**, under **Savitribai Phule Pune University**.
+
+I am focused on building a strong foundation in **AI, Data Science, Machine Learning, Python, SQL, and software development**. Alongside academics, I enjoy building practical projects that connect programming with real-world problem solving.
+
+- 🎓 B.Tech Artificial Intelligence & Data Science Student  
+- 🏛️ Vice President, SCAI — Student Committee of AI & Data Science  
+- 🤖 Aspiring AI Engineer and Data Scientist  
+- 🌱 Currently learning Python, SQL, Machine Learning, and Data Analytics  
+- 💻 Interested in AI-powered applications, data-driven systems, and automation  
+- 🚀 Open to internships, collaborations, and project-based learning  
+- 📍 Nashik, Maharashtra, India  
+
+<br clear="right"/>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/bhushan-sapkal-754a34376/">
+  <img src="https://img.shields.io/badge/LinkedIn-Bhushan%20Sapkal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/bhushan-1710">
+  <img src="https://img.shields.io/badge/GitHub-bhushan--1710-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://re-pms.vercel.app/">
+  <img src="https://img.shields.io/badge/Live%20Project-RE--PMS-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## Tech Stack
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+### Programming Languages
 
-- 🎓 Pursuing **B.Tech in AI & Data Science** @ RH Sapat College, Nashik
-- 🏛️ **Vice President** of SCAI — Student Committee of AI & DS
-- 🧠 Building skills in **Machine Learning, Data Science & Analytics**
-- 🚀 Aspiring **AI Engineer & Data Scientist**
-- 🌱 Currently learning **Python, SQL & Machine Learning**
-- 💼 Open to **Internships, Projects & Collaborations**
-- 📍 Nashik, Maharashtra, India
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,java,js,php" />
 
-## 🔗 Connect With Me
+</div>
 
-<div align="left">
+### Web Development
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhushan-sapkal-754a34376/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhushan-1710)
-[![RE-PMS Live](https://img.shields.io/badge/RE--PMS-Live%20Project-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://re-pms.vercel.app/)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+
+</div>
+
+### Databases & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
+
+</div>
+
+### Data Science & AI
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+## Featured Projects
 
-**Programming & Web**
+<table>
+<tr>
+<td width="50%">
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### RE-PMS  
+**Real Estate Property Management System**
 
-**Data Science & AI**
+A full-stack web application for managing real estate property listings and records.
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/seaborn-4C72B0.svg?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+**Tech Stack:**  
+React, Node.js, Express.js, MySQL
 
-**Databases**
+**Key Features:**
+- Property listing management
+- Database-driven records
+- Full-stack architecture
+- Live deployment
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<a href="https://re-pms.vercel.app/">
+  <img src="https://img.shields.io/badge/View%20Live%20Project-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+<td width="50%">
+
+### Brownie Point Nashik Website  
+**Frontend Business Website**
+
+A responsive frontend website created for a local business with a focus on clean design and user experience.
+
+**Tech Stack:**  
+HTML, CSS, JavaScript
+
+**Key Features:**
+- Responsive layout
+- Modern UI design
+- Business-focused presentation
+- Clean frontend structure
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## Currently Working On
+
+<img align="right" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="220" alt="Anime coding gif" />
+
+I am currently improving my skills by working on projects related to:
+
+- Python for Data Science  
+- SQL for Data Analysis  
+- Machine Learning fundamentals  
+- Data visualization  
+- AI-powered applications  
+- Real-world project development  
+
+### Upcoming Project
+
+**JobGuard AI — Fake Job Posting Detection System**
+
+An AI/Data Science project that uses **Natural Language Processing and Machine Learning** to analyze job postings and detect potentially fake or suspicious opportunities.
+
+**Planned Features:**
+- Job description analysis
+- Text preprocessing
+- Fake/genuine prediction
+- Confidence score
+- Suspicious keyword detection
+- Simple dashboard interface
+
+<br clear="right"/>
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=bhushan-1710&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-&nbsp;
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushan-1710&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=bhushan-1710&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhushan-1710&bg_color=1a1b27&color=58A6FF&line=7957D5&point=58A6FF&area=true&hide_border=true" width="100%" />
+
+<img src="https://streak-stats.demolab.com?user=bhushan-1710&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="75%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhushan-1710&bg_color=1a1b27&color=58A6FF&line=7957D5&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhushan-1710&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=bhushan-1710&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%" />
+
 </div>
 
 ---
 
-## 📜 Certifications
+## Learning Roadmap
 
-- ✅ **Foundation Course on Green Skills and Artificial Intelligence**
-  — Edunet Foundation, AICTE & Shell India *(March 2026)*
-
----
-
-## 🎯 Current Goals
-
-- 🔨 Build practical projects in Python and Data Science
-- 📊 Learn SQL and Data Analytics
-- 🤖 Explore Machine Learning and AI Engineering
-- 💼 Land an internship in AI/Data Science
-- 🌐 Build AI-powered applications
-
----
-
-<div align="center">
-
-```
-> "Stop overthinking. Start building."
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7957D5,100:58A6FF&height=120&section=footer" width="100%" />
-
-</div>
+```text
+Current Focus
+│
+├── Python Programming
+├── SQL and Database Management
+├── Data Analysis with Pandas
+├── Data Visualization
+├── Machine Learning Basics
+├── NLP Fundamentals
+└── AI-Powered Project Development
