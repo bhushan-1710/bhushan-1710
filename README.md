@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7957D5&height=200&section=header&text=Bhushan%20Sapkal&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Data%20Science" alt="Header" />
+<img src="https://www.magnific.com/free-vector/desktop-smartphone-app-development_10276838.htm#fromView=keyword&page=1&position=26&uuid=a36e842f-1ab8-4665-bb0b-f590bc35f750&query=Programming+png" alt="Header" />
 
 </div>
 
