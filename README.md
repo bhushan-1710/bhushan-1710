@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7957D5&height=200&section=header&text=Bhushan%20Sapkal&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Aspiring%20AI%20Engineer&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7957D5&height=200&section=header&text=Bhushan%20Sapkal&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Data%20Science" alt="Header" />
 
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Bhushan+Sapkal+👋;B.Tech+AI+%26+Data+Science+Student;Aspiring+AI+Engineer+%26+Data+Scientist;Building+Real+Projects+%7C+Learning+Every+Day;Open+to+Internships+%26+Collaborations+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Bhushan+Sapkal+👋;B.Tech+AI+%26+Data+Science" alt="Typing SVG" />
 </h3>
 
 <div align="center">
@@ -275,7 +275,7 @@ I'm always excited to collaborate on **AI projects**, **data science initiatives
 
 If you find my work interesting or inspiring, feel free to **star my repositories** and **follow** for more amazing projects!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&pause=1000&color=7957D5&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting!+⭐;Keep+learning%2C+keep+building+🚀" alt="Thanks" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&pause=1000&color=7957D5&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting!+⭐;Keep+learning%2C+keep+building%2C+keep+growing!" alt="Thank you" />
 
 </div>
 
