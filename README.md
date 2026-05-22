@@ -1,32 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Bhushan%20Sapkal&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Aspiring%20AI%20Engineer&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=220&section=header&text=Bhushan%20Sapkal&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Aspiring%20AI%20Engineer&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
 
 </div>
 
+<h2 align="center">Hi, I'm Bhushan Sapkal 👋</h2>
+
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Bhushan+Sapkal+👋;B.Tech+AI+%26+Data+Science+Student;Aspiring+AI+Engineer+%26+Data+Scientist;Learning+Python+%7C+SQL+%7C+Machine+Learning;Building+Real+Projects+One+Step+at+a+Time+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=B.Tech+AI+%26+Data+Science+Student;Aspiring+AI+Engineer+%26+Data+Scientist;Learning+Python+%7C+SQL+%7C+Machine+Learning;Building+Real+Projects+%7C+Learning+Every+Day;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
 </h3>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=bhushan-1710&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/bhushan-1710?label=Followers&style=for-the-badge&color=7957D5" />
-<img src="https://img.shields.io/github/stars/bhushan-1710?label=Stars&style=for-the-badge&color=58A6FF" />
+<img src="https://komarev.com/ghpvc/?username=bhushan-1710&label=Profile%20Views&color=2563eb&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/bhushan-1710?label=Followers&style=for-the-badge&color=7c3aed" />
+<img src="https://img.shields.io/github/stars/bhushan-1710?label=Stars&style=for-the-badge&color=2563eb" />
 
 </div>
 
-<br/>
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420" alt="Coding Animation" />
+
+</div>
 
 ---
 
 ## About Me
 
-<img align="right" src="https://media.tenor.com/rePDfDWO3XoAAAAi/hacking.gif" width="220" alt="Chibi coding character" />
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260" alt="Developer Animation" />
 
-Hi, I’m **Bhushan Sapkal**, a second-year **B.Tech Artificial Intelligence and Data Science** student at **RH Sapat College of Engineering, Nashik**, under **Savitribai Phule Pune University**.
+I am **Bhushan Sapkal**, a second-year **B.Tech Artificial Intelligence and Data Science** student at **RH Sapat College of Engineering, Nashik**, under **Savitribai Phule Pune University**.
 
-I am focused on building a strong foundation in **AI, Data Science, Machine Learning, Python, SQL, and software development**. Alongside academics, I enjoy building practical projects that connect programming with real-world problem solving.
+I am currently building my foundation in **AI, Data Science, Machine Learning, Python, SQL, and Software Development**. I enjoy learning by building practical projects and improving step by step.
 
 - 🎓 B.Tech Artificial Intelligence & Data Science Student  
 - 🏛️ Vice President, SCAI — Student Committee of AI & Data Science  
@@ -114,7 +122,7 @@ A full-stack web application for managing real estate property listings and reco
 **Tech Stack:**  
 React, Node.js, Express.js, MySQL
 
-**Key Features:**
+**Highlights:**
 - Property listing management
 - Database-driven records
 - Full-stack architecture
@@ -135,7 +143,7 @@ A responsive frontend website created for a local business with a focus on clean
 **Tech Stack:**  
 HTML, CSS, JavaScript
 
-**Key Features:**
+**Highlights:**
 - Responsive layout
 - Modern UI design
 - Business-focused presentation
@@ -149,30 +157,20 @@ HTML, CSS, JavaScript
 
 ## Currently Working On
 
-<img align="right" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="220" alt="Anime coding gif" />
+<img align="right" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="260" alt="Anime Developer Animation" />
 
-I am currently improving my skills by working on projects related to:
+### JobGuard AI — Fake Job Posting Detection System
 
-- Python for Data Science  
-- SQL for Data Analysis  
-- Machine Learning fundamentals  
-- Data visualization  
-- AI-powered applications  
-- Real-world project development  
-
-### Upcoming Project
-
-**JobGuard AI — Fake Job Posting Detection System**
-
-An AI/Data Science project that uses **Natural Language Processing and Machine Learning** to analyze job postings and detect potentially fake or suspicious opportunities.
+I am planning to build **JobGuard AI**, an AI/Data Science project that uses **Natural Language Processing and Machine Learning** to analyze job postings and detect potentially fake or suspicious opportunities.
 
 **Planned Features:**
-- Job description analysis
-- Text preprocessing
-- Fake/genuine prediction
-- Confidence score
-- Suspicious keyword detection
-- Simple dashboard interface
+
+- Job description analysis  
+- Text preprocessing  
+- Fake/genuine prediction  
+- Confidence score  
+- Suspicious keyword detection  
+- Simple dashboard interface  
 
 <br clear="right"/>
 
@@ -188,7 +186,7 @@ An AI/Data Science project that uses **Natural Language Processing and Machine L
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
@@ -196,11 +194,11 @@ An AI/Data Science project that uses **Natural Language Processing and Machine L
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhushan-1710&bg_color=1a1b27&color=58A6FF&line=7957D5&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhushan-1710&bg_color=1a1b27&color=58A6FF&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -228,3 +226,48 @@ Current Focus
 ├── Machine Learning Basics
 ├── NLP Fundamentals
 └── AI-Powered Project Development
+```
+
+---
+
+## Certifications
+
+- **Foundation Course on Green Skills and Artificial Intelligence**  
+  Edunet Foundation, AICTE & Shell India — March 2026
+
+---
+
+## 2026 Goals
+
+- Build strong projects in AI, Data Science, and Machine Learning  
+- Improve Python, SQL, and data analytics skills  
+- Upload clean and well-documented GitHub repositories  
+- Contribute to practical AI/Data Science projects  
+- Build a strong LinkedIn and GitHub presence  
+- Secure an internship in AI/Data Science or related technology roles  
+
+---
+
+<div align="center">
+
+### Quote I Follow
+
+```text
+"Stop overthinking. Start building."
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+something+meaningful" alt="Footer Typing SVG" />
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=130&section=footer" width="100%" />
+
+</div>
