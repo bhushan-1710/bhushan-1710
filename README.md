@@ -51,6 +51,31 @@ Currently exploring:
 
 ---
 
+## 📈 Skill Progress
+
+**Programming & Web**
+
+![HTML](https://img.shields.io/badge/HTML5-90%25-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-85%25-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-70%25-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+**Data Science & AI (Learning)**
+
+![Python](https://img.shields.io/badge/Python-50%25-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-45%25-4479A1?style=flat&logo=postgresql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-40%25-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-40%25-150458?style=flat&logo=pandas&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-30%25-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-20%25-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-70%25-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-50%25-47A248?style=flat&logo=mongodb&logoColor=white)
+
+---
+
 ## 📜 Certifications
 
 - ✅ Foundation Course on Green Skills and Artificial Intelligence
