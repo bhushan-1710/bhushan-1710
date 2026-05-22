@@ -1,88 +1,93 @@
-# Hi, I'm Bhushan Sapkal 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there+👋;I'm+Bhushan+Sapkal;AI+%26+Data+Science+Enthusiast;Builder+%7C+Learner+%7C+Problem+Solver" alt="Typing SVG" />
+</h1>
 
-🎓 Second Year B.Tech Student — Artificial Intelligence & Data Science
-📍 Nashik, Maharashtra, India
-🚀 Aspiring AI Engineer & Data Scientist
+<div align="center">
 
----
+<a href="https://www.linkedin.com/in/bhushan-sapkal-754a34376/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" />
+</a>
+&nbsp;&nbsp;&nbsp;
 
-## About Me
+<a href="https://github.com/bhushan-1710" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="50" />
+</a>
 
-I am a B.Tech AI & Data Science student at RH Sapat College of Engineering, Nashik.
-I am focused on building strong fundamentals in AI, Machine Learning, Data Science,
-and Analytics through practical projects and consistent learning.
+</div>
 
-Currently exploring:
-- 🐍 Python for Data Science
-- 🗄️ SQL & MongoDB for Data Management
-- 🤖 Machine Learning fundamentals
-- 🧠 AI-powered application development
+<br/>
 
----
-
-## 🛠️ Skills & Technologies
-
-**Web & Programming:**
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-**Data Science & AI:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
-**Databases:**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhushan-1710&label=PROFILE+VIEWS&color=58A6FF" />
+</div>
 
 ---
 
-## 📈 Skill Progress
+# 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,tensorflow,mysql,mongodb,java,html,css,js,git&theme=dark" />
+<p align="left">
+I'm <b>Bhushan Sapkal</b>, a B.Tech AI & Data Science student focused on building practical projects and developing real-world skills in AI, Machine Learning, and Data Science.<br><br>
+
+- 🎓 Pursuing <b>B.Tech Artificial Intelligence & Data Science</b> @ RH Sapat College of Engineering, Nashik<br>
+- 🧠 Building skills in <b>Machine Learning, Data Science, and Data Analytics</b><br>
+- 🚀 Aspiring <b>AI Engineer & Data Scientist</b><br>
+- 🏛️ <b>Vice President</b> of SCAI — Student Committee of AI & Data Science<br>
+- 💼 Open to <b>Internships, Collaborations, and Entry-Level Opportunities</b><br>
 </p>
 
 ---
 
-## 📜 Certifications
+# 💻 Tech Stack
 
-- ✅ Foundation Course on Green Skills and Artificial Intelligence
-  — Edunet Foundation, AICTE & Shell India (March 2026)
+<div align="left">
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/seaborn-4C72B0.svg?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhushan-1710&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Bhushan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhushan-1710&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushan-1710&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushan-1710&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=bhushan-1710&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhushan-1710&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhushan-1710&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🎯 Current Goals
+# 📜 Certifications
+
+- ✅ **Foundation Course on Green Skills and Artificial Intelligence**
+  — Edunet Foundation, AICTE & Shell India *(March 2026)*
+
+---
+
+# 🎯 Current Goals
 
 - 🔨 Build practical projects in Python and Data Science
 - 📊 Learn SQL and Data Analytics
@@ -92,11 +97,6 @@ Currently exploring:
 
 ---
 
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhushan-sapkal-754a34376/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/bhushan-1710)
-
----
-
-*Open to internships, project collaborations, and connecting with professionals in AI, Data Science, and ML* 🚀
+```md
+> "Stop overthinking. Start building."
+```
