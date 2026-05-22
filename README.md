@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Bhushan+Sapkal+👋;B.Tech+AI+%26+Data+Science" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Bhushan+Sapkal+👋;B.Tech+AI+%26+Data+Science" alt="Typing SVG" />
 </h3>
 
 <div align="center">
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://media1.tenor.com/m/FjvgVPkrWP0AAAAC/anime-reading.gif" width="280" />
+<img align="right" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="280" />
 
 - 🎓 Pursuing **B.Tech in AI & Data Science** @ RH Sapat College, Nashik
 - 🏛️ **Vice President** of SCAI — Student Committee of AI & DS
@@ -129,7 +129,7 @@ A full-stack web application for managing real estate property listings with an 
 
 ## 🎯 Currently Working On
 
-<img align="right" src="https://media1.tenor.com/m/a8_Rlx5pjCwAAAAC/anime-coding.gif" width="280" />
+<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="280" />
 
 ### 🔍 JobGuard AI
 **Fake Job Posting Detection System**
@@ -168,7 +168,7 @@ An AI/Data Science project leveraging **NLP and Machine Learning** to analyze an
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=bhushan-1710&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" width="70%" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=bhushan-1710&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%" alt="Streak Stats"/>
 </div>
 
 <div align="center">
@@ -245,7 +245,11 @@ An AI/Data Science project leveraging **NLP and Machine Learning** to analyze an
 
 <div align="center">
 
-<img src="https://media1.tenor.com/m/a8_Rlx5pjCwAAAAC/anime-coding.gif" width="300" alt="Anime Coding"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Anime Coding"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="220" alt="Chibi Anime Developer"/>
 
 <br/>
 
@@ -275,7 +279,7 @@ I'm always excited to collaborate on **AI projects**, **data science initiatives
 
 If you find my work interesting or inspiring, feel free to **star my repositories** and **follow** for more amazing projects!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&pause=1000&color=7957D5&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting!+⭐;Keep+learning%2C+keep+building%2C+keep+growing!" alt="Thank you" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=1000&color=7957D5&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting!+⭐;Keep+learning%2C+keep+building%2C+keep+growing!" alt="Thank you" />
 
 </div>
 
